@@ -8,4 +8,4 @@ Pit Trap          |  Saw Trap          |  Swing Trap
 All traps inherit from the TRAP parent class that has the events shown by inspector. With this, we can add more personalized interaction to each trap
 Pit Trap          |  Saw Trap          |  Swing Trap
 :-------------------------:|:-------------------------:|:-------------------------:
-![picture](img/inspector_pit.png) |  ![picture](img/inspector_saw.png) |  ![picture](img/inspector_swing.png)
+![picture](img/inspector_pit.JPG) |  ![picture](img/inspector_saw.JPG) |  ![picture](img/inspector_swing.JPG)
